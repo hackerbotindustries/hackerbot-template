@@ -1,1 +1,1 @@
-![HackerBot](images/solid_hb_stacked_industries_.png)
+![HackerBot](images/transparent_hb_horizontal_general_.png)
